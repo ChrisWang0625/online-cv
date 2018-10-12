@@ -1,6 +1,6 @@
 
 title: Jiuding Wang
-url: 'http://chirsoblivious.github.io'
+url: 'http://chirswang0625.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -14,15 +14,15 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Jiuding Wang
-tagline: Student at UNSW
+tagline: Network System Engineer at Sea
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: wangjiuding0625@gmail.com
-phone: 0434 060 894
-website: chrisoblivious.github.io #do not add http://
+phone: +65 93791138
+website: chriswang0625.github.io #do not add http://
 linkedin: jiuding-wang
-github: chrisoblivious
+github: chriswang0625
 
 
 # Tracker
